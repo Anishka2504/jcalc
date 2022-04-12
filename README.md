@@ -1,0 +1,2 @@
+# jcalc
+ educational project
